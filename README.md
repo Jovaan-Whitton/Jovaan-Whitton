@@ -1,7 +1,6 @@
 # Hello, I'm Jovaan Whitton
 <a href="https://linkedin.com/in/jovaan-whitton-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
 Aspiring cybersecurity professional with a strong foundation in risk mitigation, threat detection, and secure operations. CompTIA Security+ certified and a graduate of the Google Cybersecurity Professional Certificate program, with 9+ years of experience in leadership, logistics, and process optimization.
 ## Objective
 
@@ -43,7 +42,6 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
