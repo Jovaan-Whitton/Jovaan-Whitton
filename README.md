@@ -12,7 +12,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Changing File Permissions         | <a href="https://google.com">Detection Lab</a>|
-| Intro to Network Traffic Anlysis | <a href="https://google.com">Detection Lab</a>|
+| Intro to Network Traffic Anlysis | <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -48,5 +48,5 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 </div>
 
 ## Projects
-- Intro To Network Traffic Analysis
+- <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>
 - SOC Automation Project
