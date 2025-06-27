@@ -12,7 +12,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Changing File Permissions         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Intro to Network Traffic Anlysis | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -48,5 +48,5 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 </div>
 
 ## Projects
-- Detection Lab
+- Intro To Network Traffic Analysis
 - SOC Automation Project
