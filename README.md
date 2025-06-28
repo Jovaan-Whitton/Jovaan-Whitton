@@ -12,7 +12,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 |-----------------------------------------------|----------------------------|
 | Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">live SOC monitoring lab</a>|
 | Intro to Network Traffic Anlysis | <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Introduction to Active Directory      | <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb/blob/main/README.md">active directory basics</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -44,9 +44,11 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20IT%20Support%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">live SOC monitoring lab</a>
 - <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>
+- <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb/blob/main/README.md">active directory basics</a>
 
