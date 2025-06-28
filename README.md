@@ -7,11 +7,10 @@ Aspiring cybersecurity professional with a strong foundation in risk mitigation,
 This repository showcases my cybersecurity skills, hands-on labs, and training progress as I transition into the IT field. I’m currently seeking entry-level roles in cybersecurity or IT support where I can apply my problem-solving mindset and growing technical expertise.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Changing File Permissions         | <a href="https://google.com">Detection Lab</a>|
+| Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">live SOC monitoring lab</a>|
 | Intro to Network Traffic Anlysis | <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -48,5 +47,6 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 </div>
 
 ## Projects
+- <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">live SOC monitoring lab</a>
 - <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>
-- SOC Automation Project
+
