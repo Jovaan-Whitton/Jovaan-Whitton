@@ -10,10 +10,10 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">live SOC monitoring lab</a>|
-| Intro to Network Traffic Anlysis | <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>|
-| Introduction to Active Directory      | <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">active directory basics</a>|
-| Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">windows event logs</a>|
+| Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>|
+| Intro to Network Traffic Anlysis | <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">Intro to network traffic analysis</a>|
+| Introduction to Active Directory      | <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">Active directory basics</a>|
+| Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -65,8 +65,8 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 </div>
 
 ## Projects
-- <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">live SOC monitoring lab</a>
-- <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">intro to network traffic analysis</a>
-- <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">active directory basics</a>
-- <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">windows event logs</a>
+- <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>
+- <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">Intro to network traffic analysis</a>
+- <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">Active directory basics</a>
+- <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>
 
