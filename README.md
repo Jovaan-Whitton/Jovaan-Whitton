@@ -14,7 +14,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 | Intro to Network Traffic Anlysis | <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">Intro to network traffic analysis</a>|
 | Introduction to Active Directory      | <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">Active directory basics</a>|
 | Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -69,4 +69,5 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 - <a href="https://github.com/Jovaan-Whitton/intro-to-network-traffic-analysis-htb">Intro to network traffic analysis</a>
 - <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">Active directory basics</a>
 - <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>
+- <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>
 
