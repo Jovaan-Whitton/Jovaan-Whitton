@@ -15,7 +15,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 | Introduction to Active Directory      | <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">Active directory basics</a>|
 | Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>|
 | Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SQL data analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>|
 
 ## Tools
 
@@ -70,4 +70,5 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 - <a href="https://github.com/Jovaan-Whitton/active-directory-basics-htb">Active directory basics</a>
 - <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>
 - <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>
+- <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>
 
