@@ -71,4 +71,6 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 - <a href="https://github.com/Jovaan-Whitton/windows-event-logs-htb">Windows event logs</a>
 - <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>
 - <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>
+- <a href="https://github.com/Jovaan-Whitton/Python-Learning-Portfolio">Python Learning Portfolio</a>
+
 
