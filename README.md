@@ -65,6 +65,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 </div>
 
 ## Projects
+<div>
 - <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>
 - <a href="https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection">Network Traffic Analysis</a>
 - <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>
@@ -72,5 +73,6 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 - <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>
 - <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>
 - <a href="https://github.com/Jovaan-Whitton/Python-Learning-Portfolio">Python Learning Portfolio</a>
+</div>
 
 
