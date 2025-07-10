@@ -1,11 +1,11 @@
 # Hello, I'm Jovaan Whitton
 <a href="https://linkedin.com/in/jovaan-whitton-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring cybersecurity professional with a strong foundation in risk mitigation, threat detection, and secure operations. CompTIA Security+ certified and a graduate of the Google Cybersecurity Professional Certificate program, with 9+ years of experience in leadership, logistics, and process optimization.
+Aspiring IT and cybersecurity professional with a strong foundation in threat detection, system analysis, and secure operations. I'm CompTIA Security+ certified and a graduate of Google's Cybersecurity and IT Support Certificate programs. With 9+ years of experience in leadership, logistics, and process improvement, I bring a strategic mindset and strong communication skills to technical problem-solving environments.
 
 ## Objective
 
-This repository showcases my cybersecurity skills, hands-on labs, and training progress as I transition into the IT field. I’m currently seeking entry-level roles in cybersecurity or IT support where I can apply my problem-solving mindset and growing technical expertise.
+To gain hands-on experience and grow as a well-rounded security or IT operations professional. I’m seeking entry-level roles in IT support, SOC analysis, or infrastructure security where I can contribute immediately while continuing to learn. This repository highlights my continuous development through labs, certifications, and tool-based projects.
 
 ## Skills
 
@@ -78,4 +78,11 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 - <a href="https://github.com/Jovaan-Whitton/Python-Learning-Portfolio">Python Learning Portfolio</a>
 </div>
 
+---
 
+## Let's Connect
+
+I’m always open to collaboration, learning, and mentorship opportunities. Whether you're a recruiter, hiring manager, or fellow technologist—feel free to connect.
+
+- **Email**: [jovaan.jwhitton@gmail.com](mailto:jovaan.jwhitton@gmail.com)
+- **LinkedIn**: [linkedin.com/in/jovaan-whitton-profile](https://linkedin.com/in/jovaan-whitton-profile)
