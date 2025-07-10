@@ -13,7 +13,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 | Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>|
 | Network Traffic Analysis and Threat Detection | <a href="https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection">Network Traffic Analysis</a>|
 | Foundations of Active Directory      | <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>|
-| Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/Windows-Events-Logs">Windows Event Logs</a>|
+| Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/Windows-Event-Logs">Windows Event Logs</a>|
 | Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>|
 | SQL data analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>|
 
@@ -69,7 +69,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 - <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>
 - <a href="https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection">Network Traffic Analysis</a>
 - <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>
-- <a href="https://github.com/Jovaan-Whitton/Windows-Events-Logs">Windows Event Logs</a>
+- <a href="https://github.com/Jovaan-Whitton/Windows-Event-Logs">Windows Event Logs</a>
 - <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>
 - <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>
 - <a href="https://github.com/Jovaan-Whitton/Python-Learning-Portfolio">Python Learning Portfolio</a>
