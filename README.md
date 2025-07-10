@@ -11,12 +11,12 @@ To gain hands-on experience and grow as a well-rounded security or IT operations
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>|
+| Live SOC Monitoring         | <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC Monitoring lab</a>|
 | Network Traffic Analysis and Threat Detection | <a href="https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection">Network Traffic Analysis</a>|
 | Foundations of Active Directory      | <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>|
 | Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/Windows-Event-Logs">Windows Event Logs</a>|
-| Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>|
-| SQL Data Analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>|
+| Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux File Permissions</a>|
+| SQL Data Analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL Query Filters</a>|
 
 ## Tools
 
@@ -69,12 +69,12 @@ To gain hands-on experience and grow as a well-rounded security or IT operations
 
 ## Projects
 <div>
-- <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC monitoring lab</a>
+- <a href="https://github.com/Jovaan-Whitton/live-soc-monitoring-letsdefend">Live SOC Monitoring Lab</a>
 - <a href="https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection">Network Traffic Analysis</a>
 - <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>
 - <a href="https://github.com/Jovaan-Whitton/Windows-Event-Logs">Windows Event Logs</a>
-- <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>
-- <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>
+- <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux File Permissions</a>
+- <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL Query Filters</a>
 - <a href="https://github.com/Jovaan-Whitton/Python-Learning-Portfolio">Python Learning Portfolio</a>
 </div>
 
