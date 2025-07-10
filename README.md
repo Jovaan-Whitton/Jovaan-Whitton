@@ -30,7 +30,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 
 </div>
 
-### CyberSecurity and Soc Tools
+### CyberSecurity and SOC Tools
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle%20SIEM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
