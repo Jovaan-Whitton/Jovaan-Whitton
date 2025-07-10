@@ -16,7 +16,7 @@ This repository showcases my cybersecurity skills, hands-on labs, and training p
 | Foundations of Active Directory      | <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>|
 | Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/Windows-Event-Logs">Windows Event Logs</a>|
 | Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux file permissions</a>|
-| SQL data analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>|
+| SQL Data Analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL query filters</a>|
 
 ## Tools
 
