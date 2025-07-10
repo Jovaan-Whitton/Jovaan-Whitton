@@ -2,6 +2,7 @@
 <a href="https://linkedin.com/in/jovaan-whitton-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Aspiring cybersecurity professional with a strong foundation in risk mitigation, threat detection, and secure operations. CompTIA Security+ certified and a graduate of the Google Cybersecurity Professional Certificate program, with 9+ years of experience in leadership, logistics, and process optimization.
+
 ## Objective
 
 This repository showcases my cybersecurity skills, hands-on labs, and training progress as I transition into the IT field. I’m currently seeking entry-level roles in cybersecurity or IT support where I can apply my problem-solving mindset and growing technical expertise.
