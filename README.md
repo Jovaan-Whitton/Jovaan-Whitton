@@ -15,8 +15,6 @@ To gain hands-on experience and grow as a well-rounded security or IT operations
 | Network Traffic Analysis and Threat Detection | <a href="https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection">Network Traffic Analysis</a>|
 | Foundations of Active Directory      | <a href="https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory">Foundations of Active Directory</a>|
 | Windows Event Logs      | <a href="https://github.com/Jovaan-Whitton/Windows-Event-Logs">Windows Event Logs</a>|
-| Linux Security                  | <a href="https://github.com/Jovaan-Whitton/Linux-File-Permissions">Linux File Permissions</a>|
-| SQL Data Analysis | <a href="https://github.com/Jovaan-Whitton/SQL-Query-Filters">SQL Query Filters</a>|
 
 ## Tools
 
