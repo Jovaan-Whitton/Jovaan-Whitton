@@ -43,6 +43,7 @@ I support a real estate/default-services law firm through user access and permis
 
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
+- Google IT Support Professional Certificate
 
 ## Current Focus
 
