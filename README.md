@@ -31,6 +31,25 @@ I support a real estate/default-services law firm through user access and permis
 - Careful data review and issue troubleshooting
 - Stakeholder communication, process improvement, and organized follow-through
 
+## Selected Tools
+
+**Systems and automation**
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Active%20Directory-003366?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+
+**Hands-on security labs**
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Sysmon" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/tcpdump-005F87?style=flat-square&logo=gnubash&logoColor=white" alt="tcpdump" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+
 ## Featured Projects
 
 - [Foundations of Active Directory](https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory) — guided lab covering domain structure, user and group administration, Group Policy, and access-management concepts.
@@ -44,6 +63,10 @@ I support a real estate/default-services law firm through user access and permis
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
 - Google IT Support Professional Certificate
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EA0029?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+<img src="https://img.shields.io/badge/Google-IT%20Support%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT Support Professional Certificate" />
 
 ## Current Focus
 
