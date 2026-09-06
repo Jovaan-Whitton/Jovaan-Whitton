@@ -50,13 +50,14 @@ I support a real estate/default-services law firm through user access and permis
 <img src="https://img.shields.io/badge/tcpdump-005F87?style=flat-square&logo=gnubash&logoColor=white" alt="tcpdump" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 
-## Featured Projects
+## Featured Project Categories
 
-- [Foundations of Active Directory](https://github.com/Jovaan-Whitton/Foundations-of-Active-Directory) — guided lab covering domain structure, user and group administration, Group Policy, and access-management concepts.
-- [Live SOC Monitoring](https://github.com/Jovaan-Whitton/Live-SOC-Monitoring) — LetsDefend simulation documenting alert triage, log review, IOC research, and escalation decisions.
-- [Windows Event Logs & Finding Evil](https://github.com/Jovaan-Whitton/Windows-Event-Logs) — guided Windows telemetry lab using Security logs, Sysmon, ETW concepts, and PowerShell filtering.
-- [Network Traffic Analysis & Threat Detection](https://github.com/Jovaan-Whitton/Network-Traffic-Analysis-Threat-Detection) — guided packet-analysis labs using Wireshark and tcpdump.
-- [SQL Query Filters](https://github.com/Jovaan-Whitton/SQL-Query-Filters) — simulated security and operations scenarios using SQL filters to investigate login and employee datasets.
+- [Network Security Labs](https://github.com/Jovaan-Whitton/network-security-labs)
+  [Network Traffic Analysis and Threat Detection](https://github.com/Jovaan-Whitton/network-security-labs/tree/main/network-traffic-analysis-threat-detection) is a guided hands-on lab using Wireshark and tcpdump to investigate supplied packet captures and simulated network activity.
+- [Security Monitoring Labs](https://github.com/Jovaan-Whitton/security-monitoring-labs)
+  Includes [Windows Event Log Analysis](https://github.com/Jovaan-Whitton/security-monitoring-labs/tree/main/windows-event-log-analysis), [SOC Alert Triage Simulation](https://github.com/Jovaan-Whitton/security-monitoring-labs/tree/main/soc-alert-triage-simulation), and [SQL Security Data Investigation](https://github.com/Jovaan-Whitton/security-monitoring-labs/tree/main/sql-security-data-investigation).
+- [Identity and Access Management Labs](https://github.com/Jovaan-Whitton/identity-access-management-labs)
+  Includes [Foundations of Active Directory](https://github.com/Jovaan-Whitton/identity-access-management-labs/tree/main/foundations-of-active-directory) and [Linux Permissions and Least Privilege](https://github.com/Jovaan-Whitton/identity-access-management-labs/tree/main/linux-permissions-least-privilege).
 
 ## Certifications
 
