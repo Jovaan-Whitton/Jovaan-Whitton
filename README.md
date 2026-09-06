@@ -52,11 +52,11 @@ I support a real estate/default-services law firm through user access and permis
 
 ## Featured Project Categories
 
-- [Network Security Labs](https://github.com/Jovaan-Whitton/network-security-labs)  
+- [Network Security Labs](https://github.com/Jovaan-Whitton/network-security-labs)
   [Network Traffic Analysis and Threat Detection](https://github.com/Jovaan-Whitton/network-security-labs/tree/main/network-traffic-analysis-threat-detection) is a guided hands-on lab using Wireshark and tcpdump to investigate supplied packet captures and simulated network activity.
-- [Security Monitoring Labs](https://github.com/Jovaan-Whitton/security-monitoring-labs)  
+- [Security Monitoring Labs](https://github.com/Jovaan-Whitton/security-monitoring-labs)
   Includes [Windows Event Log Analysis](https://github.com/Jovaan-Whitton/security-monitoring-labs/tree/main/windows-event-log-analysis), [SOC Alert Triage Simulation](https://github.com/Jovaan-Whitton/security-monitoring-labs/tree/main/soc-alert-triage-simulation), and [SQL Security Data Investigation](https://github.com/Jovaan-Whitton/security-monitoring-labs/tree/main/sql-security-data-investigation).
-- [Identity and Access Management Labs](https://github.com/Jovaan-Whitton/identity-access-management-labs)  
+- [Identity and Access Management Labs](https://github.com/Jovaan-Whitton/identity-access-management-labs)
   Includes [Foundations of Active Directory](https://github.com/Jovaan-Whitton/identity-access-management-labs/tree/main/foundations-of-active-directory) and [Linux Permissions and Least Privilege](https://github.com/Jovaan-Whitton/identity-access-management-labs/tree/main/linux-permissions-least-privilege).
 
 ## Certifications
